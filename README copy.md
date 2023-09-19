@@ -14,9 +14,6 @@ Used:
 * functional components and react-hooks only.
 
 During development I also have written an article about import and preloading of bunch of images:
-
-https://medium.com/@pylnata/import-and-preloading-of-bunch-of-images-in-react-app-c82068d26247
-
 Additional screenshots:
 
 Shop game
