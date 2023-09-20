@@ -1,5 +1,5 @@
 ![Alt text](screen1.png?raw=true "Intro")
-
+Expanding Horizons, Later On, However, our vision extends beyond this. We are committed to ensuring that this project grows with the children it empowers. In the next phase of our project, we will be expanding to include games for tweens and teenagers.
 # Teddy games
 
 ## Website Link
